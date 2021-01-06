@@ -1,0 +1,6 @@
+Projekt_biblioteka to baza danych biblioteki. Baza ta przechowuje dane na temat 
+książek znajdujących się w bibliotece i podstawowych informacji na ich temat,  
+czytelników i ich danych, oraz wszystkich wypożyczeń, które miały miejsce w tej bibliotece.
+Głównym zadaniem tej bazy jest przetrzymywanie najważniejszych danych potrzebnych do sprawnego
+działania biblioteki oraz otrzymywania statystyk dotyczących czytelników oraz wypożyczeń.
+ 

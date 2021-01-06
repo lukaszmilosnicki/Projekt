@@ -1,0 +1,11 @@
+Zapytanie1. Wszystkie książki i ich autorzy
+Zapytanie2. Czytelnicy powyżej średniego wieku
+Zapytanie3. Najstarsze książki
+Zapytanie4. Najnowsze książki
+Zapytanie5. Liczba książek w bibliotece
+Zapytanie6. Liczba egzemplarzy książek
+Zapytanie7. Liczba czytelników
+Zapytanie8. Książki, które zostały conajmniej raz wypożyczone
+Zapytanie9. Lista czytelników, którzy wypożyczyli conajmniej jedną książkę
+Zapytanie10. Czytelnicy, który wypożyczyli najwięcej książek
+Zapytanie11. Wypożyczone książki, które nie zostały jeszcze oddane
